@@ -1,0 +1,9 @@
+<resources>
+    <string name="discover">Discover</string>
+    <string name="closed">Closed</string>
+    <string name="asap_time">%d Mins</string>
+
+    <string name="load_more_empty">No more results.</string>
+    <string name="empty">No results.</string>
+    <string name="error">Failed to load results. Please check your network connection and try again.</string>
+</resources>
